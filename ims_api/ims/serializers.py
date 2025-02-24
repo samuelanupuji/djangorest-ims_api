@@ -5,3 +5,6 @@ class Itemserializer(serializers.ModelSerializer):
     class Meta:
         model= Items
         fields= '__all__'
+
+        #kjfkdjglkbjfllkldsfkoktdgokook
+        print('samuel')
